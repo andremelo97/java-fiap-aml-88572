@@ -1,0 +1,81 @@
+{
+	"info": {
+		"_postman_id": "b4ce9358-be39-4038-ad66-de31bf15ec27",
+		"name": "FIAP - AML - RM 88572",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20104531"
+	},
+	"item": [
+		{
+			"name": "All Identities",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/identities",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"identities"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Aliases and Crimes by ID",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/identities/:id",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"identities",
+						":id"
+					],
+					"variable": [
+						{
+							"key": "id",
+							"value": "646be0aad6299d3468a1cf5f"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Aliases and Crimes by Name",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/identities/titlesearch?name=JUAN",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"identities",
+						"titlesearch"
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "JUAN"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

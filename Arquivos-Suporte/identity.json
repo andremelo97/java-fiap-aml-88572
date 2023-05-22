@@ -1,0 +1,153 @@
+[{
+  "_id": {
+    "$oid": "646bf36c4891e36bd5900c16"
+  },
+  "name": "OMAR ALEXANDER CARDENAS",
+  "nationality": "American",
+  "gender": "Male",
+  "birth": "March 23, 1995",
+  "hair": "Dark Brown",
+  "eyes": "Brown",
+  "height": "Approximately 5'6\" to 5'7\"",
+  "weight": "Approximately 240 to 300 pounds",
+  "reward": 100,
+  "fbi": true,
+  "interpol": false,
+  "aliases": [],
+  "crimes": [
+    {
+      "description": "Omar Alexander Cardenas is wanted for his alleged involvement in the murder of a man that occurred on August 15, 2019, in a large outdoor shopping center in Sylmar, California, immediately next to Los Angeles.  It is alleged that he fired several rounds from a semi-automatic handgun at the victim, striking him in the head and causing his death.  A local arrest warrant was issued for Cardenas on April 3, 2020, in the Superior Court of Los Angeles County after he was charged locally with murder.  A federal arrest warrant from the United States District Court, Central District of California, was issued for Cardenas on September 2, 2021, after he was charged with unlawful flight to avoid prosecution."
+    }
+  ],
+  "_class": "com.fiap.aml.domain.Identity"
+},{
+  "_id": {
+    "$oid": "646bf36c4891e36bd5900c17"
+  },
+  "name": "VERONICA MARIA",
+  "nationality": "Nicaragua",
+  "gender": "Female",
+  "birth": "04/04/1973",
+  "hair": "Black",
+  "eyes": "Brown",
+  "height": "1.65 metres",
+  "weight": "85 kilograms",
+  "fbi": false,
+  "interpol": true,
+  "aliases": [],
+  "crimes": [
+    {
+      "description": "Charged: Asesinato"
+    }
+  ],
+  "_class": "com.fiap.aml.domain.Identity"
+},{
+  "_id": {
+    "$oid": "646bf36c4891e36bd5900c18"
+  },
+  "name": "ALEXIS FLORES",
+  "nationality": "Honduras",
+  "gender": "Male",
+  "birth": "July 18, 1975, July 18, 1982, September 15, 1980, July 17, 1982",
+  "hair": "Black",
+  "eyes": "Brown",
+  "height": "5'4\"",
+  "weight": "130 to 140 pounds",
+  "reward": 100,
+  "fbi": true,
+  "interpol": false,
+  "aliases": [
+    {
+      "alias": "Mario Flores"
+    },
+    {
+      "alias": "Mario Roberto Flores"
+    },
+    {
+      "alias": "Mario F. Roberto"
+    },
+    {
+      "alias": "Alex Contreras"
+    },
+    {
+      "alias": "Alesis Contreras"
+    }
+  ],
+  "crimes": [
+    {
+      "description": "Alexis Flores is wanted for his alleged involvement in the kidnapping and murder of a five-year-old girl in Philadelphia, Pennsylvania. The girl was reported missing in late July of 2000, and was later found strangled to death in a nearby apartment in early August of 2000."
+    }
+  ],
+  "_class": "com.fiap.aml.domain.Identity"
+},{
+  "_id": {
+    "$oid": "646bf36c4891e36bd5900c19"
+  },
+  "name": "JUAN DIOS GARZA",
+  "nationality": "Mexico",
+  "gender": "Male",
+  "birth": "September 13, 1953",
+  "hair": "Black",
+  "eyes": "Brown",
+  "height": "5'7\" to 6'0\"",
+  "weight": "170 to 200 pounds",
+  "fbi": true,
+  "interpol": false,
+  "aliases": [
+    {
+      "alias": "Juan Sauceda Garza"
+    },
+    {
+      "alias": "Juan Sauzeda Garza"
+    },
+    {
+      "alias": "Juan DeDios Garza"
+    },
+    {
+      "alias": "Juan S. Garza"
+    },
+    {
+      "alias": "Juan Dios Garza-Sauceda"
+    }
+  ],
+  "crimes": [
+    {
+      "description": "Juan Dios Garza is wanted for his alleged involvement in the murder of a man in Belle Glade, Florida. On October 21, 1984, Garza allegedly shot and killed a male victim, then shot and wounded the victim's brother."
+    },
+    {
+      "description": "Garza was charged with second degree murder and attempted second degree murder by the Circuit Court of the Fifteenth Judicial Court, Criminal Division, in and for Palm Beach County, State of Florida, and a state warrant was issued for his arrest on October 24, 1984. A federal arrest warrant was issued by the United States District Court, Southern District of Florida, Miami, Florida, on January 2, 1985, after Garza was charged federally with unlawful flight to avoid prosecution."
+    }
+  ],
+  "_class": "com.fiap.aml.domain.Identity"
+},{
+  "_id": {
+    "$oid": "646bf36c4891e36bd5900c1a"
+  },
+  "name": "JUAN NAJERA QUEZADA",
+  "nationality": "Mexico",
+  "gender": "Male",
+  "birth": "July 11, 1958",
+  "hair": "Black",
+  "eyes": "Brown",
+  "height": "5'0\" to 5'4\"",
+  "weight": "\t155 to 165 pounds",
+  "fbi": true,
+  "interpol": false,
+  "aliases": [
+    {
+      "alias": "Juan Quezada"
+    }
+  ],
+  "crimes": [
+    {
+      "description": "Juan Najera Quezada is being sought for his alleged involvement in the sexual abuse of a six-year-old female in Chicago, Illinois in June of 2007."
+    },
+    {
+      "description": "In August of 2007, Quezada was arrested by Chicago Police Department officers after he was identified as having sexually assaulted the child, who lived in the same apartment building as him. At the time of the incident, Quezada resided with a woman who ran a daycare service out of the home. Quezada failed to appear following his release on bond from the arrest, and is also being sought for questioning in connection with the sexual assault of another child while out on bond."
+    },
+    {
+      "description": "Quezada was charged with aggravated criminal sexual abuse of a child by the Circuit Court of Cook County, Illinois, and a state warrant was issued for his arrest on September 30, 2008. On February 9, 2012, Quezada was charged in the United States District Court, Northern District of Illinois, Eastern Division, Chicago, Illinois, with unlawful flight to avoid prosecution and a warrant was issued for his arrest."
+    }
+  ],
+  "_class": "com.fiap.aml.domain.Identity"
+}]
